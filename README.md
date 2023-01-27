@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Devojha408
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Information Technology
+- 🌱 Full Stack Developer 💻 with a strong focus on ReactJS 🔥 and experience in building Progressive Web Wpplications🚀
+- 💪 Skilled in ReactJS 💬, Spring Boot 🚀, AWS 💬, MySQL 🗄 and Redis Cache 🔑
 - 💞️ I’m looking to collaborate on Web and ML Projects
+- 💞️ looking to improve my skills 📚 and take on new challenges 💪.
 
 <!---
 Devojha408/Devojha408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
